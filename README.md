@@ -1,6 +1,6 @@
 ### Hi there 👋, My self Ch. Lalitha Kalyan. Nice to meet ya !
+![image](https://user-images.githubusercontent.com/77020331/198346646-70bd70fd-0a15-4256-813b-b191c556be06.png)
 
-https://miro.medium.com/max/720/0*H4cHks1eEdrW7Zlz.gif
 
 <!--
 **kalyan0309/kalyan0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+![0_H4cHks1eEdrW7Zlz](https://user-images.githubusercontent.com/77020331/198346774-70639bc4-65f5-4eee-bbdc-4136c962d9c7.gif)
+
 - ⚡ Fun fact: ...
 -->
