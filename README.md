@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/77020331/198343490-12c921cc-0363-4cc4-9963-14422527fb8e.png)
+
 <!--
 **kalyan0309/kalyan0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
