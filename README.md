@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my self Ch. Lalitha Kalyan. Nice to meet ya !
 
 [![image](https://user-images.githubusercontent.com/77020331/198343490-12c921cc-0363-4cc4-9963-14422527fb8e.png)](https://miro.medium.com/max/720/0*H4cHks1eEdrW7Zlz.gif)
 
