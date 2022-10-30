@@ -1,6 +1,7 @@
 ### Hi there 👋, My self Ch. Lalitha Kalyan. Nice to meet ya !
 
-[!image] https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2019/12/data-analyst-colleagues-in-office.jpeg
+![image](https://user-images.githubusercontent.com/77020331/198872023-9fd4f566-a4ad-44c0-bea6-c04674239593.png)
+
 
 
 <!--
