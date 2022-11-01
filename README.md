@@ -10,7 +10,7 @@
 
 
 
-[![CH. Lalitha Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyan0309)](https://github.com/kalyan0309/github-readme-stats)
+[![CH. Lalitha Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyan0309)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
