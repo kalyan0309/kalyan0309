@@ -21,4 +21,3 @@
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=kalyan0309&label=PROFILE+VIEWS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalyan0309&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
