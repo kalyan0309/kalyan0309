@@ -1,4 +1,4 @@
-###   Hello there 😎 , My self Ch. Lalitha Kalyan. Nice to meet ya ! 🤝
+###   Hello there 😎 , Myself Ch. Lalitha Kalyan. Nice to meet ya ! 🤝
 
 ![image](https://user-images.githubusercontent.com/77020331/198872023-9fd4f566-a4ad-44c0-bea6-c04674239593.png)
 
@@ -22,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ch-lalitha-kalyan-2273391aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
+  <a href="https://kaggle.com/https://www.kaggle.com/chlalithakalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chlalithakalyan" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@chittajallulalithakalyan38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@chittajallulalithakalyan38" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ck4873" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chittajallulali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
 <a href="https://leetcode.com/Kalyan_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
