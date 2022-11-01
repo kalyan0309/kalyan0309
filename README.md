@@ -12,8 +12,8 @@
 
 # 📈 GitHub Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kalyan0309&theme=highcontrast&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=saiksha8502&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiksha8502&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kalyan0309&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0309&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)</br>
 
 
 # 🏆 GitHub Trophies
