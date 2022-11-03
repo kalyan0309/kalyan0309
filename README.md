@@ -10,7 +10,7 @@
 
 
 # 📊 Github Stats
-![CH. Lalitha Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyan0309&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kalyan0309&theme=radical)](https://git.io/streak-stats)
 
 # 🔠 Langauges Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0309&langs_count=8&theme=radical)]
