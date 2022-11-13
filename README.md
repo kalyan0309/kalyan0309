@@ -1,4 +1,4 @@
-###   Hello there 😎 , Myself Ch. Lalitha Kalyan. Nice to meet ya ! 🤝
+###   Hello there 😎 , Myself Chittajallu Lalitha Kalyan. Nice to meet ya ! 🤝
 
 ![image](https://user-images.githubusercontent.com/77020331/198872023-9fd4f566-a4ad-44c0-bea6-c04674239593.png)
 
