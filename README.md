@@ -28,7 +28,12 @@
 <a href="https://www.hackerrank.com/chittajallulali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
 <a href="https://leetcode.com/Kalyan_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
 </p>
-https://activity-graph.herokuapp.com/graph?username=kalyan0309&theme=xcode)](https://github.com/kalyan0309)
+<hr>
+
+![Ch. Lalitha Kalyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalyan0309&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
+<hr>
+
 # 🌐 Portfolio Website :
 https://chittajallulalitha.wixsite.com/website
 ![image](https://user-images.githubusercontent.com/77020331/199297812-2feeeae7-ee07-450e-a088-4c5723f7c5ab.png)
