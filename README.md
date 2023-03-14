@@ -11,13 +11,18 @@
 
 # 📊 Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kalyan0309&theme=radical)](https://git.io/streak-stats)
+<hr>
+
+![Ch. Lalitha Kalyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalyan0309&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
+<hr>
 
 # 🔠 Langauges Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0309&langs_count=8&theme=radical)]
-
+<hr>
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<hr>
 # 🔗 Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,16 +33,10 @@
 <a href="https://www.hackerrank.com/chittajallulali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
 <a href="https://leetcode.com/Kalyan_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
 </p>
-<hr>
-
-![Ch. Lalitha Kalyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalyan0309&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
-
-<hr>
 
 # 🌐 Portfolio Website :
 https://chittajallulalitha.wixsite.com/website
-![image](https://user-images.githubusercontent.com/77020331/199297812-2feeeae7-ee07-450e-a088-4c5723f7c5ab.png)
-
+![image](https://user-images.githubusercontent.com/77020331/225079640-eb14d2b7-31f1-415e-82f1-8ced2f8a1699.png)
 
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=kalyan0309&label=PROFILE+VIEWS)
