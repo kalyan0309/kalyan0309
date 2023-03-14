@@ -16,11 +16,12 @@
 ![Ch. Lalitha Kalyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalyan0309&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <hr>
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 🔠 Langauges Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0309&langs_count=8&theme=radical)]
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 # 🔗 Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
