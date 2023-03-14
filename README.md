@@ -19,10 +19,8 @@
 
 # 🔠 Langauges Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0309&langs_count=8&theme=radical)]
-<hr>
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<hr>
 # 🔗 Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
