@@ -16,6 +16,7 @@
 ![Ch. Lalitha Kalyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalyan0309&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <hr>
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
