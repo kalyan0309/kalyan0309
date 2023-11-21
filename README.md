@@ -36,8 +36,9 @@
 </p>
 
 # 🌐 Portfolio Website :
-https://chittajallulalitha.wixsite.com/website
-![image](https://user-images.githubusercontent.com/77020331/225079640-eb14d2b7-31f1-415e-82f1-8ced2f8a1699.png)
+[https://chittajallulalitha.wixsite.com/website](https://www.datascienceportfol.io/chlkalyan)
+![image](https://github.com/kalyan0309/kalyan0309/assets/77020331/c072a92d-d5c0-450d-bc23-dbe565e2a4a2)
+
 
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=kalyan0309&label=PROFILE+VIEWS)
