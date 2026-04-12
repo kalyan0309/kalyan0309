@@ -1,46 +1,113 @@
-###   Hello there 😎 , Myself Chittajallu Lalitha Kalyan. Nice to meet ya ! 🤝
+<h1 align="center">Kalyan · AI Engineer & Backend Developer</h1>
 
-![image](https://user-images.githubusercontent.com/77020331/198872023-9fd4f566-a4ad-44c0-bea6-c04674239593.png)
-
-# 💻 Technical Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
-
-
-# 📊 Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kalyan0309&theme=radical)](https://git.io/streak-stats)
-<hr>
-
-![Ch. Lalitha Kalyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalyan0309&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
-
-<hr>
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kalyan0309&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-# 🔠 Langauges Used
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0309&langs_count=8&theme=radical)]
-
-# 🔗 Socials
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ch-lalitha-kalyan-2273391aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/chlalithakalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chlalithakalyan" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@chittajallulalithakalyan38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@chittajallulalithakalyan38" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ck4873" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chittajallulali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
-<a href="https://leetcode.com/Kalyan_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chittajallulalithakalyan38/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CH. LALITHA KALYAN" height="30" width="40" /></a>
+<p align="center">
+  <b>Python · FastAPI · Async Systems · LLM Integration · Azure AI Foundry · Generative AI</b>
 </p>
 
-# 🌐 Portfolio Website :
-[https://chittajallulalitha.wixsite.com/website](https://www.datascienceportfol.io/chlkalyan)
-![image](https://github.com/kalyan0309/kalyan0309/assets/77020331/c072a92d-d5c0-450d-bc23-dbe565e2a4a2)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chittajallu-lalitha-kalyan-2273391aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Kalyan_2003/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kalyan0309&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
+---
 
-# 👀Views
-![](https://komarev.com/ghpvc/?username=kalyan0309&label=PROFILE+VIEWS)
+## About
 
+I build AI systems that ship and run reliably in production — async data pipelines, LLM-powered agents, and intelligent document automation handling tens of thousands of records annually.
 
+Currently working as a Software Engineer at **Computacenter** (Bengaluru) in the Automation & AI team, where I design and deploy end-to-end AI systems across Sales, Logistics, and Finance.
+
+- 🔭 Currently building a **Government Tender Intelligence & Bid Platform** — async FastAPI + Azure AI Foundry agent for sales bid strategy and go/no-go decisions
+- 🤖 Shipped **AI document automation** processing 22,000+ logistics documents/year at ~98% faster than manual
+- 🧾 Built **AP Invoice Automation** processing 2,000–3,000 invoices/month at ~90–92% extraction accuracy
+- 🌱 Currently deepening: **RAG pipelines · Multi-agent systems · Cloud infra (Terraform/Ansible) · DSA**
+- 🎯 Open to **AI Engineer · Applied AI · Forward Deployed Engineer** roles at product companies
+
+---
+
+## Tech Stack
+
+**AI & LLM**
+
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-6B47ED?style=flat&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI_Builder-742774?style=flat&logo=microsoftpowerplatform&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00897B?style=flat&logoColor=white)
+
+**Backend & Async**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-009688?style=flat&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logoColor=white)
+
+**Cloud & Infra**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure_App_Service-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Automation**
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-742774?style=flat&logo=microsoftpowerplatform&logoColor=white)
+![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat&logo=microsoftpowerplatform&logoColor=white)
+
+---
+
+## Featured Projects
+
+> ⚠️ Company projects are not publicly shareable. Portfolio projects that mirror real production patterns are being built and will be pinned here.
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🔜 **async-llm-pipeline** | Async document ingestion + LLM extraction pipeline with structured output, upsert logic, and human-in-the-loop review | Python · FastAPI · asyncio · OpenAI SDK · SQLAlchemy | Coming soon |
+| 🔜 **rag-document-qa** | RAG pipeline for multi-document Q&A with chunk strategy, vector search, and evaluation | Python · FastAPI · LangChain / LlamaIndex · ChromaDB | Coming soon |
+| 🔜 **predictive-iam** | ML model for predictive permission assignment for new joiners based on role, team, and historical access patterns | Python · Scikit-learn · FastAPI · SQL | Coming soon |
+
+---
+
+## Engineering Patterns I Work With
+
+```
+✦ Async-first architecture          — FastAPI + asyncio throughout
+✦ Concurrent API fetching           — asyncio.gather() with batch awareness  
+✦ Cursor-based pagination           — for large dataset ingestion
+✦ Upsert logic                      — insert new, update existing, detect corrections
+✦ Structured LLM output             — JSON schema enforcement from agents
+✦ Human-in-the-loop validation      — exception routing, review queues, audit trails
+✦ Production-grade system prompts   — business rule classification, multi-section output
+✦ Config management                 — pydantic-settings, .env, BaseSettings
+```
+
+---
+
+## Currently Learning
+
+- 📐 System Design — HLD & LLD for distributed AI systems
+- 🧮 DSA — consistent LeetCode practice
+- ☁️ Cloud infra — Terraform · Ansible · Azure provisioning
+- 🔗 RAG pipelines — chunking strategies, vector DBs, retrieval evaluation
+- 🤖 Multi-agent orchestration — agent handoffs, tool use, memory
+
+---
+
+<p align="center">
+  <i>Building AI systems that solve real problems at scale.</i>
+</p>
