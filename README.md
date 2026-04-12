@@ -101,4 +101,5 @@ Software Engineer at **Computacenter** (Bengaluru) · Automation & AI Team · de
 
 <p align="center">
   <i>Building AI systems that solve real problems at scale · Open to AI Engineer & Applied AI roles · Bengaluru</i>
+  <i>Reach out to me at: chlalithakalyan@gmail.com</i>
 </p>
