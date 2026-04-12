@@ -24,7 +24,7 @@ I build AI systems that ship and run reliably in production — async data pipel
 
 Software Engineer at **Computacenter** (Bengaluru) · Automation & AI Team · designing and deploying end-to-end applied AI systems across Sales, Logistics, and Finance domains.
 
-- 🔭 Building a **Government Tender Intelligence & Bid Platform** — async FastAPI backend + Azure AI Foundry agent generating structured bid intelligence and RED/AMBER/GREEN go/no-go decisions for sales teams
+- 🔭 Building a **Tender Intelligence & Bid Platform** — asynchronous FastAPI backend + Azure AI Foundry agent, where the tool auto fetches the list of tender from a government platform based on filters and passes the data fetched along with documents of each tender and generates a structured summary and decision to place a bid or no-bid based on its intelligence and categorize it into RED/AMBER/GREEN go/no-go decisions for sales teams and bid managers.
 - 🤖 Shipped **AI logistics document automation** processing 22,000+ Delivery Challans & E-Way Bills/year — ~98% faster than manual, handling single deployments to bulk shipments of 400–600 serialised assets
 - 🧾 Built **AP Invoice Automation** processing 2,000–3,000 invoices/month at ~90–92% extraction accuracy with human-in-the-loop exception handling
 - 🏆 **Innovation Award** — recognised for redefining document-heavy logistics operations with AI-enabled automation architecture
