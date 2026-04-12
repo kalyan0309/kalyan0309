@@ -12,9 +12,11 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kalyan0309&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
----
+<p align="center">
+  📬 <a href="mailto:chlalithakalyan@gmail.com">chlalithakalyan@gmail.com</a> — feel free to reach out!
+</p>
+</p>
 
 ## About
 
@@ -101,5 +103,4 @@ Software Engineer at **Computacenter** (Bengaluru) · Automation & AI Team · de
 
 <p align="center">
   <i>Building AI systems that solve real problems at scale · Open to AI Engineer & Applied AI roles · Bengaluru</i>
-  <i>Reach out to me at: chlalithakalyan@gmail.com</i>
 </p>
